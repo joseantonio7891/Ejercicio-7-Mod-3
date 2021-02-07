@@ -1,0 +1,52 @@
+
+body {
+    font-family: Arial;
+}
+
+.banner{
+    text-align: center;
+}
+
+.col{
+    text-align: center;
+}
+
+.btn-control{
+    padding: 2em 0.2em 2em 0.2em;
+    border:0.1em solid black;
+}
+
+.title-control{
+    background: rgb(131, 123, 123);
+    margin-bottom: 0;
+    border: 0.1em solid black;
+}
+
+.espaciador{
+    margin-top: 1em;
+}
+
+.botonera{
+    max-width: fit-content;
+    margin: auto;
+    margin-top: 1em;
+}
+
+button{
+    border: 1px solid black !important;
+}
+
+.nave{
+    width: 50%;
+    height: auto;
+}
+
+.tamaños{
+    width: 80%;
+    margin: auto;
+}
+
+.visibilidad{
+    width: 70%;
+    margin: auto;
+}
